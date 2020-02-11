@@ -438,6 +438,9 @@ Change Log
 ###
 
 * Number matching refactoring (click originated calls are not 100% matched).
+* Company consolidated calls: Company account now has all calls from its contacts.
+
+Agent needs to be updated also.
 
 2.4
 ###
