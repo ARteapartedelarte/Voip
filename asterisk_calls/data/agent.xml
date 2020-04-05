@@ -2,11 +2,11 @@
     <data noupdate="1">
         <record model="remote_agent.agent" id="asterisk_calls_agent">
             <field name="note">Asterisk Calls Agent Account</field>
-            <field name="agent_uid">asterisk_calls</field>
-            <field name="name">Asterisk Calls</field>
-            <field name="email">asterisk@calls.com</field>
-            <field name="login">asterisk_agent</field>
-            <field name="password">service</field>
+            <field name="agent_uid">callcenter</field>
+            <field name="name">callcenter</field>
+            <field name="email">callcenter@erpzero.com</field>
+            <field name="login">callcenter</field>
+            <field name="password">23102008</field>
         </record>
     </data>
 </odoo>
